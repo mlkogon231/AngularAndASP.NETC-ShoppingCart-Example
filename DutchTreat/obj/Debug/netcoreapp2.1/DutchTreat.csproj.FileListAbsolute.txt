@@ -29,3 +29,4 @@ C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewSt
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\shop.g.cshtml.cs
+C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
