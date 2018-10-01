@@ -26,7 +26,7 @@ C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Con
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
-C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\shop.g.cshtml.cs
 C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\cSharp\Mark\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
